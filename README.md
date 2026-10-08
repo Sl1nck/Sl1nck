@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sl1nck
+# SLINCK
 
 ### Security Researcher · Web Pentesting · Bug Bounty
 
