@@ -113,7 +113,7 @@ Credential Harvesting Detection · Heuristic Risk Scoring · Dual Desktop/Mobile
 
 <br>
 
-<a href="https://github.com/Sl1nck/PhishShield">
+<a href="https://github.com/Sl1nck/phishshield_ai">
 
 <img src="https://img.shields.io/badge/Explore%20PHISHSHIELD-22c55e?style=for-the-badge&logo=github&logoColor=0f172a"/>
 
